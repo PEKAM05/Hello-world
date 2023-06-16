@@ -1,10 +1,10 @@
-# Hello-world
+<head>Hello-world</head>
 
-CHAPTER 1
+<title>CHAPTER 1</title>
 
-INTRODUCTION
+<title>INTRODUCTION</title>
 
-1.1	Introduction
+<title>1.1	Introduction</title>
 
 Education has always been a guiding principle in developing a nation. It is, therefore, very important that the various components of the education system are focused on developing the country's educational capabilities. This concept is also related to the development of the spiritual aspect (OECD, 2018). The direction and structure of the education system in Malaysia can be seen to be constantly evolving (RH Ahmad, 2017). It can be seen starting with the establishment of the Education Act of 1957, which was the basis for the country's independence (MOE, 2020). This formal education system begins with preschool, elementary, and secondary education. A variety of secondary schools and universities then support the system.
 
